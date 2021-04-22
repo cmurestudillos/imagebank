@@ -4,7 +4,7 @@
 
 # ImageBank (Banco de Imagenes)
 
-Apliacion para administrar las citas y pacientes de un centro veterinario.
+Banco de imagenes libres y compartidas por una gran comunidad, a tu disposición, porporcionadas por la API pixabay.
 
 ## Instalar Dependencias
 - Instalar `npm install`
